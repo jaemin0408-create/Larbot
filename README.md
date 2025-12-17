@@ -18,12 +18,16 @@ Autonomous rover using Raspberry Pi and sensors for navigation.
 ## How to Run
 ## Installation
 sudo apt update
+
 sudo apt upgrade -y
+
 sudo apt install python3-pip -y
+
 pip3 install opencv-python numpy rplidar tensorflow==2.15.0
 
 ## Clone the Repository
 git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+
 cd REPOSITORY_NAME
 
 ## Run the Program
