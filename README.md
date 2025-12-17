@@ -15,7 +15,6 @@ Autonomous rover using Raspberry Pi and sensors for navigation.
 - NumPy
 - rplidar
 
-## How to Run
 ## Installation
 sudo apt update
 
